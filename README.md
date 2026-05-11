@@ -60,9 +60,9 @@ I enjoy competitive environments that require discipline, consistency, and fast 
 
 ## 📊 GitHub Stats
 
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Januzao&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Januzao&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Januzao&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Januzao&layout=compact&theme=radical&hide_border=true)
 
 ---
 
