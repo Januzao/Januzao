@@ -46,7 +46,7 @@ Mobile application for shared expense tracking, wishlists, and collaborative pla
 Dormitory management system designed to simplify student accommodation workflows and administration.
 
 ### JourneyPL
-Travel and route-planning application focused on exploring Poland.
+Travel and route-planning game focused on exploring Lodz University of Technology.
 
 ### Chess Game
 Logic-based chess implementation with core game mechanics and move validation.
