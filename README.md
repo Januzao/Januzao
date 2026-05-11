@@ -1,6 +1,6 @@
 # Maksym Holembiovskyi
 
-### Backend Developer • Computer Science Student @ Lodz University of Technology (PŁ)
+### Backend Developer • Computer Science Student at Lodz University of Technology (PŁ)
 
 Computer Science student at WEEIA, specializing in backend development with Java and Spring Boot.  
 Interested in scalable systems, software architecture, and game development.
