@@ -32,7 +32,6 @@ Interested in scalable systems, software architecture, and game development.
 ### 💼 Work Experience
 * **Craftware** | Salesforce Developer Intern (Apex, Salesforce) | *Mar 2026 - Present*
 * **CSR** | Backend Developer (PHP) | *Sep 2025 - Mar 2026*
-* 
 ---
 
 ## 🛠 Featured Projects
