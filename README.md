@@ -58,14 +58,6 @@ I enjoy competitive environments that require discipline, consistency, and fast 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Januzao&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Januzao&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 📫 Connect with Me
 
 - GitHub: [Januzao](https://github.com/Januzao)
