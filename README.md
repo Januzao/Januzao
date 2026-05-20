@@ -10,22 +10,17 @@ Interested in scalable systems, software architecture, and game development.
 ## 🚀 Tech Stack
 
 ### Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-%236DB33F.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python,postgres,php" />
+  <img src="https://img.shields.io/badge/Apex-%236DB33F.svg?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
 
 ### Frameworks & Tools
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
-![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,docker,godot" />
+  <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOQL-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
 
 ---
 
