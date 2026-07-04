@@ -56,8 +56,6 @@ I enjoy competitive environments that require discipline, consistency, and fast 
   *1st place among technical universities at the 2026 Polish Academic Championships*  
   *2nd place in the general classification*
 
-- **Counter-Strike 2** — 2000+ FACEIT ELO player
-
 - **Languages** — Ukrainian • Polish • English • Russian
 
 ---
