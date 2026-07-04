@@ -65,5 +65,4 @@ I enjoy competitive environments that require discipline, consistency, and fast 
 ## 📫 Connect with Me
 
 - GitHub: [Januzao](https://github.com/Januzao)
-- FACEIT: [Ach3roNn](https://www.faceit.com/uk/players/Ach3roNn)
 - LinkedIn: [Maksym Holembiovskyi](https://www.linkedin.com/in/maksym-holembiovskyi-181a97345/)
